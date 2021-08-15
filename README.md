@@ -1,5 +1,7 @@
 # REDANT
 Before you open this project make sure that you have installed xampp software.
+Click the link to download the xampp https://www.apachefriends.org/index.html and then install it.
+After installation is done, open the path "C:\xampp\htdocs" and create a folder in the directory and place all these files in that folder.
 If you have installed then follow the below steps 
   1. Start the **Apache** and **MySQL** services
   
@@ -23,4 +25,5 @@ If you have installed then follow the below steps
   ![tables_creation](https://user-images.githubusercontent.com/68614048/129458739-979f8be9-7059-4413-8461-d14870215f6b.PNG)
 
   7. Now its done.....!!!!
-  8. You are ready to go..!!!
+  8. Now open the browser and enter the url **localhost/folder_name**. It will open the project.
+  9. You are ready to go..!!!
