@@ -1,7 +1,7 @@
 # REDANT
 Before you open this project make sure that you have installed xampp software.<br>
-Click the link to download the xampp https://www.apachefriends.org/index.html and then install it.
-After installation is done, open the path "C:\xampp\htdocs" and create a folder in the directory and place all these files in that folder.
+Click the link to download the xampp https://www.apachefriends.org/index.html and then install it.<br>
+After installation is done, open the path "C:\xampp\htdocs" and create a folder in the directory and place all these files in that folder.<br>
 If you have installed then follow the below steps 
   1. Start the **Apache** and **MySQL** services
   
